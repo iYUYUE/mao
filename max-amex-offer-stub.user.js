@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       max-amex-offer-neat
+// @name       max-amex-offer
 // @namespace  mao
 // @version    0.4.9
 // @author     1dy
