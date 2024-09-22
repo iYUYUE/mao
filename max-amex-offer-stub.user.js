@@ -90,7 +90,7 @@
     });
   }
 
-  const url = () => "https://raw.githubusercontent.com/1dy/mao/neat/max-amex-offer";
+  const url = () => "https://raw.githubusercontent.com/iYUYUE/mao/neat/max-amex-offer";
   const ERROR_LOAD_LIB_OR_MAX_AMEX_OFFER = "Error loading libraries or max-amex-offer:";
   const ERROR_FETCH_MAX_AMEX_OFFER = "Error fetching max-amex-offer:";
 
