@@ -21,8 +21,8 @@
 // @connect    uscardforum.com
 // @connect    cloudfunctions.net
 // @connect    yale.email
-// @downloadURL https://update.greasyfork.org/scripts/463121/max-amex-offer.user.js
-// @updateURL https://update.greasyfork.org/scripts/463121/max-amex-offer.meta.js
+// @downloadURL https://raw.githubusercontent.com/iYUYUE/mao/neat/max-amex-offer-stub.user.js
+// @updateURL https://raw.githubusercontent.com/iYUYUE/mao/neat/max-amex-offer-stub.user.js
 // ==/UserScript==
 
 // TODO: Prevent tool spread to outside of the forum
